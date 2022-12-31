@@ -1,6 +1,6 @@
-'''
+"""
     邀请人共进晚餐
-'''
+"""
 names = ['Amy', 'Jack', 'Tom', 'Laura']
 for name in names:
     print("Would you have dinner with me, " + name + "?")
